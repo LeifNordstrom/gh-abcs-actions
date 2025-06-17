@@ -3,9 +3,9 @@ on:
   workflow_dispatch:
   workflow_call:
 
-  #push:
-  #  branches:
-  #    - main
+  push:
+    branches:
+      - main
   #  paths:
   #    - 'labs/**'
 
